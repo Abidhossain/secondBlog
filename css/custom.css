@@ -1,0 +1,36 @@
+/* your styles go here */
+/*  
+.post-image{
+    width: 100%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    /*z-index: 1;*/ 
+/* } 
+.post-image img {
+      position: relative; 
+      -webkit-transform: scale(1);
+      -moz-transform: scale(1);
+      -ms-transform: scale(1);
+      -o-transform: scale(1);
+      transform: scale(1);
+      -webkit-transition: 0.3s;
+      -o-transition: 0.3s;
+      transition: 0.3s; 
+    }
+.post-image:hover img {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+    cursor: pointer;
+    transition: 0.3s; 
+}
+ */
+ .post-space{
+     padding: 50px 0px;
+ } 
+ .title{
+     color: #000000;
+ }
